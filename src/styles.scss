@@ -1,6 +1,10 @@
+// MUST COME FIRST
+@use "flowbite/src/themes/default" as flowbite;
+
+// Then your other CSS/Tailwind imports
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import "flowbite/src/themes/default";
-@use "flowbite/src/themes/default";
-@use "flowbite/src/themes/default" as flowbite;
+
+// Then your other CSS rules
+/* Your custom styles here */
