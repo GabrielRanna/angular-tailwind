@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 
+
 @Component({
   selector: 'app-root',
   imports: [],
@@ -8,4 +9,7 @@ import { Component } from '@angular/core';
 })
 export class App {
   protected title = 'angular-tailwind';
+}
+export class AppComponent {
+  title = 'angular-tailwind';
 }
