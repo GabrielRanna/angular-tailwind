@@ -2,5 +2,5 @@
 @tailwind components;
 @tailwind utilities;
 @import "flowbite/src/themes/default";
-@plugin "flowbite/plugin";
-@source "../node_modules/flowbite";
+@use "flowbite/src/themes/default";
+@use "flowbite/src/themes/default" as flowbite;
