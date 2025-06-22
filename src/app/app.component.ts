@@ -6,6 +6,4 @@
   templateUrl: './app.component.html',
   styles: []
 })
-export class AppComponent {
-  title = 'Hello, angular-tailwind';
-}
+export class AppComponent {}
