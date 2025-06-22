@@ -1,0 +1,48 @@
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.028Z - Started listening on: \\.\pipe\nx\C:\Users\bubu\AppData\Local\Temp\29a34f00fd10c53f8bc4\d.sock
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.031Z - [WATCHER]: Subscribed to changes within: c:\Projetos\angular-tailwind (native)
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.033Z - Established a connection. Number of open connections: 1
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.035Z - Closed a connection. Number of open connections: 0
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.060Z - Established a connection. Number of open connections: 1
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.060Z - Closed a connection. Number of open connections: 0
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.061Z - Established a connection. Number of open connections: 1
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.064Z - [REQUEST]: Client Request for Project Graph Received
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.089Z - Time taken for 'loadSpecifiedNxPlugins' 2.532199999999989ms
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.329Z - Established a connection. Number of open connections: 2
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.330Z - Closed a connection. Number of open connections: 1
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.331Z - Established a connection. Number of open connections: 2
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.331Z - Closed a connection. Number of open connections: 1
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.470Z - Time taken for 'Load Nx Plugin: c:\Projetos\angular-tailwind\node_modules\nx\src\plugins\package-json' 404.1839ms
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.481Z - Time taken for 'Load Nx Plugin: c:\Projetos\angular-tailwind\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 414.3964ms
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.516Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.516Z - [REQUEST]: 
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.516Z - [REQUEST]: 
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.522Z - Time taken for 'loadDefaultNxPlugins' 450.4779ms
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.568Z - Time taken for 'build-project-configs' 35.32989999999995ms
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.663Z - [SYNC]: collect registered sync generators
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.664Z - [REQUEST]: Responding to the client. project-graph
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.664Z - Time taken for 'total for creating and serializing project graph' 599.8596ms
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.665Z - Done responding to the client project-graph
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.665Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 600. Response time: 1.
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.670Z - [REQUEST]: Client Request for Project Graph Received
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.670Z - [REQUEST]: Responding to the client. project-graph
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.671Z - Time taken for 'total for creating and serializing project graph' 0.44690000000002783ms
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.671Z - Done responding to the client project-graph
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.671Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.674Z - [REQUEST]: Client Request for Project Graph Received
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.675Z - [REQUEST]: Responding to the client. project-graph
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.675Z - Time taken for 'total for creating and serializing project graph' 0.3935000000000173ms
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.676Z - Done responding to the client project-graph
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.676Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.680Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.680Z - Done responding to the client handleContextFileData
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.680Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 1. Response time: 0.
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:01:48.681Z - Closed a connection. Number of open connections: 0
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:02:46.203Z - [WATCHER]: Processing file changes in outputs
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:02:46.466Z - [WATCHER]: Processing file changes in outputs
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:02:46.558Z - [WATCHER]: Processing file changes in outputs
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:02:46.916Z - [WATCHER]: Processing file changes in outputs
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:03:05.045Z - [WATCHER]: Processing file changes in outputs
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:03:05.046Z - [WATCHER]: Stopping the watcher for c:\Projetos\angular-tailwind (sources)
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:03:05.046Z - [WATCHER]: Stopping the watcher for c:\Projetos\angular-tailwind (sources)
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:03:05.046Z - [WATCHER]: Stopping the watcher for c:\Projetos\angular-tailwind (outputs)
+[NX v21.2.1 Daemon Server] - 2025-06-22T04:03:05.047Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
